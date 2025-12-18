@@ -2,8 +2,8 @@
 
 I'm Leonardo de Souza Melo, Junior Backend Developer specializing in AI & Computer Vision.
 
-🚀 I focus on systems that analyze video streams and images to detect patterns, behaviors, and solve real-world problems.
-🔍 My work includes object detection, movement analysis, and behavior modeling.
+🚀 I focus on systems that analyze video streams and images to detect patterns, behaviors, and solve real-world problems. \n
+🔍 My work includes object detection, movement analysis, and behavior modeling. \n
 💡 Passionate about connecting AI models with practical applications.
 🎮 In my free time, I enjoy working on game development.
 
